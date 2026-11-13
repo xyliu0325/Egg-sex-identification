@@ -1,0 +1,20 @@
+# Dependencies inferred from source imports; versions are not locked.
+# Original experiment environment confirmed by the author: Egg, Python 3.8.19.
+# Reported PyTorch: 2.4.1+cu118; CUDA build: 11.8; cuDNN: 90100.
+# See environment_info.txt. Export remaining versions from Egg before locking.
+# Install torch/torchvision for the intended CPU or CUDA environment.
+torch
+torchvision
+tensorboard
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+tqdm
+prettytable
+opencv-python
+openpyxl
+xlrd
+xlwt
+xlutils

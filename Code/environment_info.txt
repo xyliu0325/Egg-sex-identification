@@ -1,0 +1,16 @@
+Original experiment environment
+===============================
+Source: author-provided interpreter and PyTorch version output.
+
+Environment name: Egg
+Python: 3.8.19
+Python build: default, Mar 20 2024, 19:55:45
+Compiler / architecture: MSC v.1916 64 bit (AMD64)
+PyTorch: 2.4.1+cu118
+CUDA version reported by torch.version.cuda: 11.8
+cuDNN version reported by torch.backends.cudnn.version(): 90100
+
+Pending: versions of torchvision and other dependencies, GPU model and driver.
+The CUDA value above identifies the PyTorch build; it does not establish the
+version of a separately installed system CUDA Toolkit or the GPU driver.
+requirements.txt currently lists source dependencies without version locks.
